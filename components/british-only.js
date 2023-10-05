@@ -49,7 +49,7 @@ module.exports = {
   "carriageway": "lane",
   "cash machine": "ATM",
   "cashpoint": "ATM",
-  "central reservation": "median strip",
+  "central reservation": "mediaFn strip",
   "chancer": "opportunist",
   "chat up": "flirt",
   "chatted up": "flirted",
